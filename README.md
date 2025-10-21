@@ -1,4 +1,4 @@
-## What is NSR Reader?
+.## What is NSR Reader?
 
 NSR Reader is a powerful reader for PDF, DjVu, TIFF (S^3, Anna, Belle) and TXT files. This repository contains source
 code for Symbian S60v5, S3, Anna and Belle, and also for MeeGo and Maemo platforms. Though the Maemo port is compilable,
